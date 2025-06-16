@@ -93,7 +93,8 @@ urbanhub/
 ## 👥 Contribuidores
 
 - Daniel C. Martins
-- Equipe Mesa 8 - Engenharia de Software
+- Enzo D Andrey Lavieri Yarid
+- Rafael Yuzo Fuzii
 
 ---
 
